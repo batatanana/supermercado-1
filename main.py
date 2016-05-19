@@ -12,3 +12,5 @@ caixa:#que gambiarra kkkk
 	#ler codigo de barras do produtos
 	#calcular preco de cada produto	
 	#calcular o total a pagar
+
+#curso muito bom, obrigada pela atencao
